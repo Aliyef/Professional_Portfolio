@@ -1,3 +1,3 @@
 access from the link below
 
-http://mainthecode.gq/
+https://mainthecode.netlify.app/
